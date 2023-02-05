@@ -34,6 +34,11 @@ My stack is:
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-10ADD8?style=for-the-badge&logo=go&logoColor=white"  />
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/BrainFuck-003545?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/SNUSP-003545?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Velato-003545?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Whitespace-003545?style=for-the-badge&logoColor=white" />
 </div>
 
 All time I have programmed i've tried lots IDEs, but most of them are just awful. Now i use only this editors:
