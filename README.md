@@ -20,7 +20,7 @@ I think most programming languages are terrible, for example hate dynamically ty
 
 ## What I prefer use:
 
-My stack is: 
+My stack is (arranged in order of decreasing number of abstractions): 
 
 <div align="center">
     <a href="https://coffeescript.org/"><img src="https://img.shields.io/badge/COFFEE-E34F26?style=for-the-badge&logo=CoffeeScript&logoColor=white" /><a><br>
