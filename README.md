@@ -63,7 +63,7 @@ In fact, Linux is safer and faster. Install it now!
     <a href="https://openwrt.org/"> <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" /> </a>
     <a href="https://www.debian.org/" > <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> </a>
     <a href="https://tails.boum.org/"> <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" /> </a>
-    <a gref="https://linuxmint.com/"> <img src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> </a>
+    <a href="https://linuxmint.com/"> <img src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> </a>
 </div>
 
 ## And what about media?
