@@ -8,7 +8,7 @@
 
 ---
 
-## Who am I.
+## Who am I
 
 Im developer from third world country wants to transform life to live.
 
