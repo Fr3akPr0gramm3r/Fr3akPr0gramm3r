@@ -4,7 +4,7 @@
 
 ---
 
-# Hi! We`ll code you!
+<h1> Hi! We`ll code you! </h1>
 
 ---
 
@@ -17,6 +17,9 @@ Love hard rock, reggae and some rap. Hard rock hallelujah!
 Primarily a backend developer. I develop various APIs and microservices. I raise servers, I write scripts for some automation.
 
 I think most programming languages are terrible, for example hate dynamically typed languages.  Prefer languages with GC.
+I love esoteric programming languages, they makes lost fun. I've written bogosort and rec fib algorithms in SNUSP. 
+Spread SNUSP everywhere! 
+
 
 ## What I prefer use:
 
