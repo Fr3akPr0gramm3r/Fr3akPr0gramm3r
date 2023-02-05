@@ -12,7 +12,9 @@
 
 Im developer from third world country wants to transform life to live.
 
- Primarily a backend developer. I develop various APIs and microservices. I raise servers, I write scripts for some automation.
+Love hard rock, reggae and some rap. Hard rock hallelujah!
+
+Primarily a backend developer. I develop various APIs and microservices. I raise servers, I write scripts for some automation.
 
 I think most programming languages are terrible, for example hate dynamically typed languages.  Prefer languages with GC.
 
@@ -61,11 +63,12 @@ In fact, Linux is safer and faster. Install it now!
 
 ## And what about media?
 
-I hate TT. I dont stand why most people use Signal for "private messaging" in fact it's unprivate.
+###### I hate TT. I dont stand why most people use Signal for "private messaging" in fact it's unprivate. For real private, use Matrix or Telegram. Replace Twitter by Mastodon and  use VPN/TOR.
 
 <div class="social-media" align="center">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mastodon-4285f4?style=for-the-badge&logo=Mastodon&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Telegram-1E5397?style=for-the-badge&logo=Telegram&logoColor=white" />
 </div>
