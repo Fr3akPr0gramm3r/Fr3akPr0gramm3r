@@ -26,6 +26,7 @@ Lets spread SNUSP everywhere!
 My stack is: 
 
 <div id="badges" align="center">
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
     <img src="https://img.shields.io/badge/COFFEE-E34F26?style=for-the-badge&logo=CoffeeScript&logoColor=white">
     <br />
     <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
