@@ -4,11 +4,11 @@
 
 ---
 
-# Hi! We will code you!
+# Hi! We`ll code you!
 
 ---
 
-## Who am I
+## Who am I.
 
 Im developer from third world country wants to transform life to live.
 
@@ -20,7 +20,7 @@ I think most programming languages are terrible, for example hate dynamically ty
 
 ## What I prefer use:
 
-My stack is (arranged in order of decreasing number of abstractions): 
+My stack is: 
 
 <div align="center">
     <a href="https://coffeescript.org/"><img src="https://img.shields.io/badge/COFFEE-E34F26?style=for-the-badge&logo=CoffeeScript&logoColor=white" /><a><br>
@@ -38,6 +38,8 @@ My stack is (arranged in order of decreasing number of abstractions):
     <a href="https://esolangs.org/wiki/Velato"><img src="https://img.shields.io/badge/Velato-003545?style=for-the-badge&logoColor=white" /></a>
     <a href="https://esolangs.org/wiki/Whitespace"><img src="https://img.shields.io/badge/Whitespace-003545?style=for-the-badge&logoColor=white" /></a>
 </div>
+
+###### I love esoteric programming languages, in my life i have written more than one hundred strings on them. My fav is SNUSP in fact it has stack and procedures. I wrote recursive fibonacci and bogosort functions on it and very proud about this fact.
 
 All time I have programmed i've tried lots IDEs, but most of them are just awful. Now i use only this editors:
 
