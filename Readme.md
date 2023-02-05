@@ -4,7 +4,7 @@
 
 ---
 
-<h1> Hi! We`ll code you! </h1>
+<h1> Hi! We'll code you! </h1>
 
 ---
 
@@ -18,7 +18,7 @@ Primarily a backend developer. I develop various APIs and microservices. I raise
 
 I think most programming languages are terrible, for example hate dynamically typed languages.  Prefer languages with GC.
 I love esoteric programming languages, they makes lost fun. I've written bogosort and rec fib algorithms in SNUSP. 
-Spread SNUSP everywhere! 
+Lets spread SNUSP everywhere! 
 
 
 ## What I prefer use:
